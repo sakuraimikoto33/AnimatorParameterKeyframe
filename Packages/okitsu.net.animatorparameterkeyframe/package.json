@@ -1,0 +1,12 @@
+{
+  "name": "okitsu.net.animatorparameterkeyframe",
+  "displayName": "AnimatorParameterKeyframe",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Automatically determines whether the Animator Controller parameter is bool/float/int and adds it as a keyframe to the Animation Clip.",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "sakuraimikoto33",
+    "url": "https://github.com/sakuraimikoto33"
+  }
+}
